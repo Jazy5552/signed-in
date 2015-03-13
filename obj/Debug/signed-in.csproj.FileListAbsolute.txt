@@ -1,0 +1,7 @@
+C:\Users\KCISCisco.9103-E3-332855\Desktop\signed-in\signed-in\bin\Debug\signed-in.exe.config
+C:\Users\KCISCisco.9103-E3-332855\Desktop\signed-in\bin\Debug\signed-in.exe.config
+C:\Users\KCISCisco.9103-E3-332855\Desktop\signed-in\bin\Debug\signed-in.exe
+C:\Users\KCISCisco.9103-E3-332855\Desktop\signed-in\bin\Debug\signed-in.pdb
+C:\Users\KCISCisco.9103-E3-332855\Desktop\signed-in\obj\Debug\signed-in.csprojResolveAssemblyReference.cache
+C:\Users\KCISCisco.9103-E3-332855\Desktop\signed-in\obj\Debug\signed-in.exe
+C:\Users\KCISCisco.9103-E3-332855\Desktop\signed-in\obj\Debug\signed-in.pdb
